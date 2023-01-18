@@ -50,9 +50,9 @@ export function Skills() {
                                 Anytrust AB <span>&bull;</span>
                                 <em className="date"> Oct 2022 - Dec 2022</em>
                             </p>
-                            <p className="description">My main task was to develop a desktop application from scratch, that the company was gonna use for statistics and analytics purposes.
+                            <p className="description">My main task was to develop an in-house desktop application from scratch, that the company was gonna use for statistics and analytics purposes.
                                 I was given a requirement specification but got free hands to choose UI and add extra features.
-                                The data was fetched from an external API and I cdeveloped the app with C# and WinUI3 (XAML)</p>
+                                The data was fetched from an external API and I developed the app with C# and WinUI3 (XAML)</p>
                         </Fade>
                     </Col>
                     <Col md={2}>

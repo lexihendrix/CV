@@ -18,7 +18,7 @@ export function AboutMe() {
                         <p>My programming journey started 2020 when I decided to learn coding by myself, and felt like
                             I finally know what I want to do for the rest of my life. So I decided I want a degree - and here we are today.
                             I'm currently in my second and final year at Teknikhögskolan, studying .NET developer.
-                            My end goal is to become a fullstack developer - since I love doing both backend and frontend.</p>
+                            My end goal is to become a fullstack developer - since I love doing both backend (c#) and frontend (react).</p>
                         <p>I am self-driven, problem solving and I work very hard to achieve my goals. Always eager to learn new things,
                             new technologies and work well both within a team or independently. </p>
                         <h3>I need <span>your</span> help</h3>
