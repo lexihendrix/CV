@@ -20,7 +20,7 @@ export function Home() {
                                 deleteSpeed: 50,
                             }}
                         /></h1>
-                        <p>.NET Developer Student & Aspiring Full Stack Developer</p>
+                        <p>.NET Developer Student <br/>& Aspiring Full Stack Developer</p>
                         <a href="#aboutme"><button><span>Let's get to know each other</span> <ArrowThroughHeart color="lightpink" size={30} /></button></a>
                     </Col>
                     <Col xs={12} md={6} xl={5}>
