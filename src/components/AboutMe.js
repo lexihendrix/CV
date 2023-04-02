@@ -21,11 +21,11 @@ export function AboutMe() {
                             My end goal is to become a fullstack developer - since I love doing both backend (c#) and frontend (react).</p>
                         <p>I am self-driven, problem solving and I work very hard to achieve my goals. Always eager to learn new things,
                             new technologies and work well both within a team or independently. </p>
-                        <h3>I need <span>your</span> help</h3>
-                        <p> I'm currently looking for a company where can do an internship (February 6th - May 19th 2023)
-                            combined with writing a thesis (ex-jobb) for my final semester.
-                            Please don't hesitate on <a href="#connect"><span className="message-span"> contacting </span></a>
-                            me if there's a possibility of me doing it at your company or if you know anyone that would be happy to have an intern!
+                        <h3>Are <span>you</span> looking for developers?</h3>
+                        <p> At the moment I'm working on my thesis project and doing an internship at WCOM AB. I'll be
+                            graduating in june, so now I'm looking for new challenges!
+                            I'd love to hear<a href="#connect"><span className="message-span"> from you </span></a>
+                            if your company is looking for .NET or fullstack developers.
                         </p>
                     </Col>
                 </Row>

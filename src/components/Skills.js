@@ -45,7 +45,7 @@ export function Skills() {
                     <Col md={4}>
                         <Fade right duration={2000}>
                             <h3><span>Experience</span></h3>
-                            <p className="title">Internship (LIA)</p>
+                            <p className="title">Internship (LIA1)</p>
                             <p className="info">
                                 Anytrust AB <span>&bull;</span>
                                 <em className="date"> Oct 2022 - Dec 2022</em>
@@ -53,6 +53,12 @@ export function Skills() {
                             <p className="description">My main task was to develop an in-house desktop application from scratch, that the company was gonna use for statistics and analytics purposes.
                                 I was given a requirement specification but got free hands to choose UI and add extra features.
                                 The data was fetched from an external API and I developed the app with C# and WinUI3 (XAML)</p>
+                                <p className="title">Internship (LIA2)</p>
+                            <p className="info">
+                                WCOM AB <span>&bull;</span>
+                                <em className="date"> Feb 2023 - Present</em>
+                            </p>
+                            <p className="description"></p>
                         </Fade>
                     </Col>
                     <Col md={2}>

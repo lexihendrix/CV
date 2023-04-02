@@ -212,7 +212,8 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon:before {
 .home-start {
   margin-top: 0;
   padding: 200px 0 230px 0;
-  background-image: url("./assets/purplesky.jpg");
+  background-color: black;
+  /*background-image: url("./assets/purplesky.jpg");*/
   background-position: top;
   background-size: cover;
   background-repeat: no-repeat;
